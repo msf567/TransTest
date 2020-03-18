@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "d6797e89895e06e3af5395189bb6e578"
+build_time: [1584485649, 885177000]
+inputs:
+  "/Users/msf567/MacHook/MacHook/MacHook.swift": [1584485649, 0]

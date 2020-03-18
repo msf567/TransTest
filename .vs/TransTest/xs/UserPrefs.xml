@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E29D357B-3CE2-DD28-77BD-4D5BD9E089F8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MacOSHookTest.cs">
+    <Files>
+      <File FileName="Assets/MacOSHookTest.cs" Line="27" Column="83" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TransTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MacOSHookTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ab891c4c-7ce4-41fc-a30b-bbeb7c47c3ea" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

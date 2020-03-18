@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>03903F3E-0446-4F7E-9EC3-54AD668C4E59</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03903F3E-0446-4F7E-9EC3-54AD668C4E59.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606177937.42307997</real>
+			<key>timeStoppedRecording</key>
+			<real>606177939.84269595</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>03903F3E-0446-4F7E-9EC3-54AD668C4E59</string>
+		</dict>
+		<key>0E6D4C04-4218-43AD-BEF5-90D03E95BCD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0E6D4C04-4218-43AD-BEF5-90D03E95BCD4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606164056.10737801</real>
+			<key>timeStoppedRecording</key>
+			<real>606164057.17855096</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>0E6D4C04-4218-43AD-BEF5-90D03E95BCD4</string>
+		</dict>
+		<key>0F6AF0EC-2212-4919-9CC3-E82FF5ED78B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0F6AF0EC-2212-4919-9CC3-E82FF5ED78B5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606170336.68136096</real>
+			<key>timeStoppedRecording</key>
+			<real>606170338.950611</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>0F6AF0EC-2212-4919-9CC3-E82FF5ED78B5</string>
+		</dict>
+		<key>1AB06F1E-E9B7-4B0F-84D7-7B27FE98D707</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1AB06F1E-E9B7-4B0F-84D7-7B27FE98D707.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606169516.88810599</real>
+			<key>timeStoppedRecording</key>
+			<real>606169519.24594295</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>1AB06F1E-E9B7-4B0F-84D7-7B27FE98D707</string>
+		</dict>
+		<key>1C44D9F5-09AE-4FE6-A7C7-4AA32FCB12D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C44D9F5-09AE-4FE6-A7C7-4AA32FCB12D5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606169599.20023704</real>
+			<key>timeStoppedRecording</key>
+			<real>606169599.96457505</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>1C44D9F5-09AE-4FE6-A7C7-4AA32FCB12D5</string>
+		</dict>
+		<key>1DCDED92-9F20-4C84-8B27-882A550BFF4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1DCDED92-9F20-4C84-8B27-882A550BFF4B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606177896.32778096</real>
+			<key>timeStoppedRecording</key>
+			<real>606177897.533566</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>1DCDED92-9F20-4C84-8B27-882A550BFF4B</string>
+		</dict>
+		<key>21107106-9957-46B7-B85C-33B9D96C9E8A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>21107106-9957-46B7-B85C-33B9D96C9E8A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606167496.57260203</real>
+			<key>timeStoppedRecording</key>
+			<real>606167500.389727</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>21107106-9957-46B7-B85C-33B9D96C9E8A</string>
+		</dict>
+		<key>2F877FBB-1CE5-458D-9F69-DE7D4E62EA0C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2F877FBB-1CE5-458D-9F69-DE7D4E62EA0C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606178449.82464898</real>
+			<key>timeStoppedRecording</key>
+			<real>606178453.63007998</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>2F877FBB-1CE5-458D-9F69-DE7D4E62EA0C</string>
+		</dict>
+		<key>30668A2C-2173-4FB8-B8CB-06C92AEF3663</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30668A2C-2173-4FB8-B8CB-06C92AEF3663.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606169607.90197504</real>
+			<key>timeStoppedRecording</key>
+			<real>606169608.61494803</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>30668A2C-2173-4FB8-B8CB-06C92AEF3663</string>
+		</dict>
+		<key>3652843D-071D-48FE-9953-5961FF7CB224</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3652843D-071D-48FE-9953-5961FF7CB224.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606164657.297611</real>
+			<key>timeStoppedRecording</key>
+			<real>606164659.57066298</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>3652843D-071D-48FE-9953-5961FF7CB224</string>
+		</dict>
+		<key>3C40059B-3FA4-4A13-86B3-01C4FCCFE4B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C40059B-3FA4-4A13-86B3-01C4FCCFE4B3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606177886.07492197</real>
+			<key>timeStoppedRecording</key>
+			<real>606177888.44836795</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>3C40059B-3FA4-4A13-86B3-01C4FCCFE4B3</string>
+		</dict>
+		<key>455A19A0-9A85-47A3-813A-5560D7DBACA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>455A19A0-9A85-47A3-813A-5560D7DBACA2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606178095.19927204</real>
+			<key>timeStoppedRecording</key>
+			<real>606178097.95004594</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>455A19A0-9A85-47A3-813A-5560D7DBACA2</string>
+		</dict>
+		<key>496DD4FF-1773-42EB-BB0D-86AF64F87137</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>496DD4FF-1773-42EB-BB0D-86AF64F87137.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606171219.29012895</real>
+			<key>timeStoppedRecording</key>
+			<real>606171221.27187395</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>496DD4FF-1773-42EB-BB0D-86AF64F87137</string>
+		</dict>
+		<key>4F9B33D3-B4F1-4FF5-9349-29643979F992</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F9B33D3-B4F1-4FF5-9349-29643979F992.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606163713.91982496</real>
+			<key>timeStoppedRecording</key>
+			<real>606163717.65107298</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>4F9B33D3-B4F1-4FF5-9349-29643979F992</string>
+		</dict>
+		<key>507C1A2D-EABD-45C4-AE9A-E945646E4604</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>507C1A2D-EABD-45C4-AE9A-E945646E4604.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>598478616.60836804</real>
+			<key>timeStoppedRecording</key>
+			<real>598478620.67945504</real>
+			<key>title</key>
+			<string>Build MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>507C1A2D-EABD-45C4-AE9A-E945646E4604</string>
+		</dict>
+		<key>59B3ABA6-4371-409D-94E7-B3FE66D0CAFA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59B3ABA6-4371-409D-94E7-B3FE66D0CAFA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606169053.14530694</real>
+			<key>timeStoppedRecording</key>
+			<real>606169053.17882705</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>59B3ABA6-4371-409D-94E7-B3FE66D0CAFA</string>
+		</dict>
+		<key>5EEC4A71-A6CB-4D1F-B059-E71C9D912717</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5EEC4A71-A6CB-4D1F-B059-E71C9D912717.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606167053.57210302</real>
+			<key>timeStoppedRecording</key>
+			<real>606167057.13342297</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>5EEC4A71-A6CB-4D1F-B059-E71C9D912717</string>
+		</dict>
+		<key>6349383D-C4F5-425A-BBFB-F3AF2A40EA2F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6349383D-C4F5-425A-BBFB-F3AF2A40EA2F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606169651.87511694</real>
+			<key>timeStoppedRecording</key>
+			<real>606169654.04759395</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>6349383D-C4F5-425A-BBFB-F3AF2A40EA2F</string>
+		</dict>
+		<key>6BAF2185-A3FF-4AF1-9969-C76447262B1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6BAF2185-A3FF-4AF1-9969-C76447262B1B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606164005.12389004</real>
+			<key>timeStoppedRecording</key>
+			<real>606164007.21508098</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>6BAF2185-A3FF-4AF1-9969-C76447262B1B</string>
+		</dict>
+		<key>70426F3D-A7E9-4B7F-9989-5E135741BB7E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70426F3D-A7E9-4B7F-9989-5E135741BB7E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606178003.68053401</real>
+			<key>timeStoppedRecording</key>
+			<real>606178006.037112</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>70426F3D-A7E9-4B7F-9989-5E135741BB7E</string>
+		</dict>
+		<key>78D1CC7D-7A91-4011-A57D-C5FA47FE3194</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>78D1CC7D-7A91-4011-A57D-C5FA47FE3194.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606169619.86191702</real>
+			<key>timeStoppedRecording</key>
+			<real>606169623.384341</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>78D1CC7D-7A91-4011-A57D-C5FA47FE3194</string>
+		</dict>
+		<key>791FD02E-0F0E-4D50-9884-36E2DD46A9A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>791FD02E-0F0E-4D50-9884-36E2DD46A9A6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606178436.60940099</real>
+			<key>timeStoppedRecording</key>
+			<real>606178437.43622899</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>791FD02E-0F0E-4D50-9884-36E2DD46A9A6</string>
+		</dict>
+		<key>79289C00-9B83-4A22-B4B9-A34FF715F863</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>79289C00-9B83-4A22-B4B9-A34FF715F863.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606170397.44860494</real>
+			<key>timeStoppedRecording</key>
+			<real>606170399.72255301</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>79289C00-9B83-4A22-B4B9-A34FF715F863</string>
+		</dict>
+		<key>7B5BE1A6-D9DC-44AE-80AF-2FEC0DFDC58A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B5BE1A6-D9DC-44AE-80AF-2FEC0DFDC58A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606164069.916399</real>
+			<key>timeStoppedRecording</key>
+			<real>606164074.03540802</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>7B5BE1A6-D9DC-44AE-80AF-2FEC0DFDC58A</string>
+		</dict>
+		<key>7DCD2789-A059-4561-B51B-ED562455036E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DCD2789-A059-4561-B51B-ED562455036E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606178385.93007505</real>
+			<key>timeStoppedRecording</key>
+			<real>606178392.28816998</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>7DCD2789-A059-4561-B51B-ED562455036E</string>
+		</dict>
+		<key>8D286720-0701-4B9A-A9EA-750E4BA8B882</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D286720-0701-4B9A-A9EA-750E4BA8B882.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606167381.246369</real>
+			<key>timeStoppedRecording</key>
+			<real>606167382.04473197</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>8D286720-0701-4B9A-A9EA-750E4BA8B882</string>
+		</dict>
+		<key>97A17DF0-B45D-4B19-B6C7-4ED3078CC15F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97A17DF0-B45D-4B19-B6C7-4ED3078CC15F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606169600.27947903</real>
+			<key>timeStoppedRecording</key>
+			<real>606169601.136868</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>97A17DF0-B45D-4B19-B6C7-4ED3078CC15F</string>
+		</dict>
+		<key>A465D71F-9CC0-4499-A1E9-F7814C04753B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A465D71F-9CC0-4499-A1E9-F7814C04753B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606167032.42844903</real>
+			<key>timeStoppedRecording</key>
+			<real>606167033.12444103</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>A465D71F-9CC0-4499-A1E9-F7814C04753B</string>
+		</dict>
+		<key>AD6139B5-368A-43F7-9C93-2DF51252B018</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AD6139B5-368A-43F7-9C93-2DF51252B018.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606169041.47432601</real>
+			<key>timeStoppedRecording</key>
+			<real>606169043.70932496</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>AD6139B5-368A-43F7-9C93-2DF51252B018</string>
+		</dict>
+		<key>B35F0A0F-1596-49AC-9DA9-10C4A39D045E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B35F0A0F-1596-49AC-9DA9-10C4A39D045E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606167468.50101304</real>
+			<key>timeStoppedRecording</key>
+			<real>606167469.32016003</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>B35F0A0F-1596-49AC-9DA9-10C4A39D045E</string>
+		</dict>
+		<key>B67007B5-CABE-4B81-9F90-21606F5857EE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B67007B5-CABE-4B81-9F90-21606F5857EE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606167042.21992004</real>
+			<key>timeStoppedRecording</key>
+			<real>606167042.92323399</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>B67007B5-CABE-4B81-9F90-21606F5857EE</string>
+		</dict>
+		<key>B78CEB14-4751-4B4F-8F81-1926795D07E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B78CEB14-4751-4B4F-8F81-1926795D07E6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606177906.62293303</real>
+			<key>timeStoppedRecording</key>
+			<real>606177907.85578001</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>B78CEB14-4751-4B4F-8F81-1926795D07E6</string>
+		</dict>
+		<key>B8DB6CB5-9C31-4D61-8861-BCD30C7DF5BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B8DB6CB5-9C31-4D61-8861-BCD30C7DF5BB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606164153.65812802</real>
+			<key>timeStoppedRecording</key>
+			<real>606164155.81677306</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>B8DB6CB5-9C31-4D61-8861-BCD30C7DF5BB</string>
+		</dict>
+		<key>BD199D09-C65F-48A3-8C90-81CBCBD64DE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD199D09-C65F-48A3-8C90-81CBCBD64DE5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606164871.99814105</real>
+			<key>timeStoppedRecording</key>
+			<real>606164874.55484498</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>BD199D09-C65F-48A3-8C90-81CBCBD64DE5</string>
+		</dict>
+		<key>D658F433-F78A-4359-B691-2E666E36D3B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D658F433-F78A-4359-B691-2E666E36D3B5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606177855.69284999</real>
+			<key>timeStoppedRecording</key>
+			<real>606177856.56133699</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>D658F433-F78A-4359-B691-2E666E36D3B5</string>
+		</dict>
+		<key>ED5D3CA2-1677-48F3-A257-5CFD6ED82FC5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ED5D3CA2-1677-48F3-A257-5CFD6ED82FC5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606167434.68558395</real>
+			<key>timeStoppedRecording</key>
+			<real>606167435.52614498</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>ED5D3CA2-1677-48F3-A257-5CFD6ED82FC5</string>
+		</dict>
+		<key>F5A5473F-14EF-4E25-B0FB-E2E28627F655</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5A5473F-14EF-4E25-B0FB-E2E28627F655.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MacHook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacHook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze MacHook</string>
+			<key>timeStartedRecording</key>
+			<real>606178099.80679405</real>
+			<key>timeStoppedRecording</key>
+			<real>606178099.84513497</real>
+			<key>title</key>
+			<string>Analyze MacHook</string>
+			<key>uniqueIdentifier</key>
+			<string>F5A5473F-14EF-4E25-B0FB-E2E28627F655</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
